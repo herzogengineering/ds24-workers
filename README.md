@@ -1,0 +1,1 @@
+# ugm24-designpatterns2
