@@ -6,4 +6,4 @@ def beep(frequency=2000, duration=300):
 
 
 if __name__ == "__main__":
-    print(beep(2000, 300))
+    print(beep(2000, 1000))
